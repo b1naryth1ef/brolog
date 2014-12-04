@@ -7,7 +7,9 @@ This is a simple logger class that can be used to debug or log issues
 #include <string>
 #include <iostream>
 #include <fstream>
+#include <ostream>
 #include <exception>
+#include <vector>
 
 #include <string.h>
 #include <stdarg.h>
